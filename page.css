@@ -1,0 +1,76 @@
+li{
+    list-style: none;
+    padding: 20px;
+    margin: 0px;
+}
+.list a { 
+     text-decoration-line: none;
+     text-decoration-style: none;
+     color: #435726;
+     font-size: medium;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     
+}
+.panier+ul{
+    display: inline-flex;
+    margin-left: 600px;
+}
+.panier{
+    margin-left: 50px;
+    text-decoration-line: none;
+}
+.contenu1{
+    margin-left: 50px;
+    padding-top: 100px;
+    background-color: #E2D8CE;
+    
+}
+.imagvert{
+    margin-left: 400px;
+}
+.imagvert{
+    background-color: #E2D8CE;
+}
+.list a:hover{
+    background-color: #435726;
+}
+.article{
+    margin: 10px;
+    padding: 10px;
+    border-width: 100%;
+}
+.cardimg{
+    width: 100px;
+}
+.total{
+    margin-left: 100px;
+    padding-top: 200px;
+
+}
+.contenu2{
+    display: flex;
+    margin-left: 50px;
+    border: 1px solid gray ;
+    
+}
+.ligneProduit{
+    padding: 20px;  
+    border: 1px solid gray;
+    
+}
+.btnJS{
+    color: #435726;
+    width: 20px;
+}
+.btnJS:active{
+    color: blue;
+    
+}
+.qte{
+    width: 30px;
+    height: 20px;
+}
+.fa-heart{
+    color: green;
+}
+
